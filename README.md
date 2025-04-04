@@ -17,17 +17,19 @@ This project applies Natural Language Processing (NLP) techniques to analyze Twi
 - Mental-Health-Twitter.csv (local download required)
 ## Usage (how to use this)
 # Running on Google Colab
-1. Open Google Colab and sign in with your Google account.
+1. Download the Raw file X(Twitter)Sentimenatal_Data_Analysis.ipynb file
 
-2. Upload the notebook X(Twitter) Sentimental Data Analysis.ipynb by selecting File > Upload Notebook.
+2. Open Google Colab and sign in with your Google account.
 
-3. Run the notebook cells (the first cell already installs the required libraries).
+3. Upload the notebook X(Twitter)_Sentimental_Data_Analysis.ipynb by selecting File > Upload Notebook.
 
-4. Download the Mental-Health-Twitter.csv file from the repository to your local machine.
+4. Run the notebook cells (the first cell already installs the required libraries).
 
-5. When the notebook reaches the CSV import section, you will be prompted to upload the CSV file—select the downloaded file.
+5. Download the Mental-Health-Twitter.csv file from the repository to your local machine.
 
-6. Continue executing the remaining cells to perform data pre-processing, topic modeling, and visualization.
+6. When the notebook reaches the CSV import section, you will be prompted to upload the CSV file—select the downloaded file.
+
+7. Continue executing the remaining cells to perform data pre-processing, topic modeling, and visualization.
 ## Results
 The analysis showed clear themes in Twitter discussions about mental health. The BERTopic bar chart revealed that topics like depression, therapy, addiction, and mental health support are among the most prominent. The frequent appearance of words related to depression and treatment indicates these issues are widely discussed on Twitter.
 
